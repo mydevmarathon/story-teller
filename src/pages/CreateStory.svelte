@@ -73,6 +73,7 @@
   </div>
 </body>
 <style>
+
 body {
   background-color: #E5E5F7;
   background-image:  linear-gradient(#5FC2BA 2px, transparent 2px), linear-gradient(90deg, #5FC2BA 2px, transparent 2px), linear-gradient(#5FC2BA 1px, transparent 1px), linear-gradient(90deg, #5FC2BA 1px, #E5E5F7 1px);
@@ -82,9 +83,11 @@ body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
 #container{
   background-color: #FFFFFF;
 }
+
  select {
   text-transform: none;
 }
